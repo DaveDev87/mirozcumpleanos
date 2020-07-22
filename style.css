@@ -1,0 +1,30 @@
+
+body {
+  background-color: rgb(109, 177, 191);
+
+}
+
+.ml12 {
+  font-weight: 200;
+  font-size: 1.8em;
+  letter-spacing: 0.5em;
+}
+
+.ml12 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
+
+div {
+  font-family: 'Bad Script', cursive;
+  text-align: center;
+  height: 100vh;
+  margin: auto;
+  color: white;
+  
+}
+h1 {
+  line-height: 650px;
+  height: 500px;
+  text-align: center;
+}
